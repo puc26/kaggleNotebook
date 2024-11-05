@@ -16,10 +16,10 @@ This repository contains various personal projects showcasing my work in data an
 ### 4. handTracking.py
 - **Description**: A Python script that implements hand tracking using OpenCV for gesture recognition and interaction.
 
-### 6. rice-disease-try.ipynb
+### 5. rice-disease-try.ipynb
 - **Description**: A Kaggle notebook focused on identifying rice diseases images (incomplete).
 
-### 7. titanic-classification-gridsearchcv.ipynb
+### 6. titanic-classification-gridsearchcv.ipynb
 - **Description**: A notebook that applies GridSearchCV for optimizing classification models on the Titanic dataset.
 
 ## Requirements
