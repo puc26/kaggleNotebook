@@ -29,6 +29,3 @@ This repository contains various personal projects showcasing my work in data an
 
 ## Usage
 To run the notebooks, you can either clone this repository and open the notebooks in Jupyter or directly use Google Colaboratory.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
